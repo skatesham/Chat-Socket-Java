@@ -1,2 +1,4 @@
-# Chat-Socket-Java
-TR2 Redes - Comunicação via Socket em Java
+# Comunicação via Socket em Java
+## Sham Vinicius Fiorin
+## Redes de Computadores
+## Professor Jean Carlos
